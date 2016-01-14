@@ -1,0 +1,1 @@
+# packer_vagrant_box
